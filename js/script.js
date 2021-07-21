@@ -8,7 +8,6 @@ const navBg = () =>{
             nav.style.backgroundColor = '#343a40'; // or default color
         } else {
             nav.style.backgroundColor = 'rgba(52,58,64,0.7)';
-            //transition: all 0.5s ease-out
             nav.style.transition = 'all 0.5s ease-out';
             
         }
