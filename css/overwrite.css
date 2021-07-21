@@ -4,6 +4,9 @@
 }
 
 #navCont {
-    background-color: rgba(255,255,255,0.5);
-    
+    /* background-color: rgba(255,255,255,0.5); */
+
 }
+
+.nav-colored { background-color:#000; }
+.nav-transparent { background-color:transparent;}
